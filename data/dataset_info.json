@@ -1,0 +1,57 @@
+{
+  "ru_turbo_saiga": {
+    "file_name": "ru_turbo_saiga.json",
+    "file_sha1": "79f5070ebddfc8955db4ad32e5d9a6be4661dcd0",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "system": null,
+      "tools": null
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "bot"
+    }
+  },
+  "oasst1_ru_main_branch_Sharegpt": {
+    "file_name": "oasst1_ru_main_branch_Sharegpt.json",
+    "file_sha1": "2c67aa434daa19cb56c686af0e8972af084f61a4",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "system": null,
+      "tools": null
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "bot"
+    }
+  },
+  "alpaca-gpt4-RUS_converted-for-LLaMA-Factory": {
+    "file_name": "alpaca-gpt4-RUS_converted-for-LLaMA-Factory.json",
+    "file_sha1": "",
+    "formatting": "alpaca",
+    "columns": {
+      "prompt": "seed",
+      "query": "source",
+      "response": "source",
+      "history": "messages"
+    }  
+  },
+  "d0rj-OpenOrca-RUS-1": {
+    "file_name": "d0rj-OpenOrca-RUS-0.json",
+    "file_sha1": "",
+    "formatting": "alpaca",
+    "columns": {
+      "prompt": "question",
+      "query": "system_prompt",
+      "response": "response",
+      "system": null,
+      "history": null
+    }
+  }
+}
